@@ -40,6 +40,8 @@ namespace WorkingDaysWebService.Models
 
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; }
+
+        public string CustomerReference { get; set; }
     }
 
     public class RegisterModel
