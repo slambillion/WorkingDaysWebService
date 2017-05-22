@@ -42,6 +42,7 @@ namespace WorkingDaysWebService.Models
         public bool RememberMe { get; set; }
 
         public string CustomerReference { get; set; }
+        public int UniqueId { get; set; }
     }
 
     public class RegisterModel
