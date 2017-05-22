@@ -25,6 +25,8 @@ namespace WorkingDaysWebService.Models
         [Display(Name = "Confirm new password")]
         [Compare("NewPassword", ErrorMessage = "The new password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+        
+        public int UniqueID { get; set; }
     }
 
     public class LogOnModel
@@ -66,5 +68,7 @@ namespace WorkingDaysWebService.Models
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+        
+        public int UniqueId { get; set; }
     }
 }
