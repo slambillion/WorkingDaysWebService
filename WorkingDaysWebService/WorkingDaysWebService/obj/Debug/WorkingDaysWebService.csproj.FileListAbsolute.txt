@@ -1,7 +1,0 @@
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\bin\WorkingDaysWebService.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\bin\WorkingDaysWebService.pdb
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\bin\EntityFramework.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\bin\EntityFramework.xml
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\obj\Debug\ResolveAssemblyReference.cache
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\obj\Debug\WorkingDaysWebService.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService\obj\Debug\WorkingDaysWebService.pdb

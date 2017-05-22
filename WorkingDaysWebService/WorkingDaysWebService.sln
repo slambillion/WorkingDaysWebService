@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingDaysWebService", "WorkingDaysWebService\WorkingDaysWebService.csproj", "{541C0B32-AB0D-470E-ACED-456BD7029F33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingDaysWebService.Tests", "WorkingDaysWebService.Tests\WorkingDaysWebService.Tests.csproj", "{7BB1F32C-B657-4C47-BE87-111C51774338}"

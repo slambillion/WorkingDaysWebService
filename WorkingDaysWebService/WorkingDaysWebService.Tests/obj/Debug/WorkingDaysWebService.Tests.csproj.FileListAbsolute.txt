@@ -1,8 +1,0 @@
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\bin\Debug\WorkingDaysWebService.Tests.dll.config
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\bin\Debug\WorkingDaysWebService.Tests.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\bin\Debug\WorkingDaysWebService.Tests.pdb
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\bin\Debug\WorkingDaysWebService.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\bin\Debug\WorkingDaysWebService.pdb
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\obj\Debug\ResolveAssemblyReference.cache
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\obj\Debug\WorkingDaysWebService.Tests.dll
-C:\Websites\WorkingDaysWebService\WorkingDaysWebService\WorkingDaysWebService.Tests\obj\Debug\WorkingDaysWebService.Tests.pdb
