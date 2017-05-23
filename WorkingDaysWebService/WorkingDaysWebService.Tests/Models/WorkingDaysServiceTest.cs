@@ -39,6 +39,7 @@ namespace WorkingDaysWebService.Tests.Models
         public void GetWorkingDaysInMay2020()
         {
             //...
+            // comment added by collaborator
             Assert.IsTrue(true);
         }
     }
