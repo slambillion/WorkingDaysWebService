@@ -15,4 +15,9 @@ namespace WorkingDaysWebService.Controllers
         }
 
     }
+    
+    public int TestForAutomaticBuild()
+    {
+        return 3;
+    }
 }
