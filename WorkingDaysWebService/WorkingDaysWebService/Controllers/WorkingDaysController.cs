@@ -18,6 +18,6 @@ namespace WorkingDaysWebService.Controllers
     
     public int TestForAutomaticBuild()
     {
-        return 7;
+        return 1;
     }
 }
